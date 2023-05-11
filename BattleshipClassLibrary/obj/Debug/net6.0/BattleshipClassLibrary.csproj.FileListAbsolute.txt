@@ -1,0 +1,12 @@
+C:\Users\18032905\source\repos\Battleship_solution\BattleshipClassLibrary\bin\Debug\net6.0\BattleshipClassLibrary.deps.json
+C:\Users\18032905\source\repos\Battleship_solution\BattleshipClassLibrary\bin\Debug\net6.0\BattleshipClassLibrary.dll
+C:\Users\18032905\source\repos\Battleship_solution\BattleshipClassLibrary\bin\Debug\net6.0\BattleshipClassLibrary.pdb
+C:\Users\18032905\source\repos\Battleship_solution\BattleshipClassLibrary\obj\Debug\net6.0\BattleshipClassLibrary.csproj.AssemblyReference.cache
+C:\Users\18032905\source\repos\Battleship_solution\BattleshipClassLibrary\obj\Debug\net6.0\BattleshipClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\18032905\source\repos\Battleship_solution\BattleshipClassLibrary\obj\Debug\net6.0\BattleshipClassLibrary.AssemblyInfoInputs.cache
+C:\Users\18032905\source\repos\Battleship_solution\BattleshipClassLibrary\obj\Debug\net6.0\BattleshipClassLibrary.AssemblyInfo.cs
+C:\Users\18032905\source\repos\Battleship_solution\BattleshipClassLibrary\obj\Debug\net6.0\BattleshipClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\18032905\source\repos\Battleship_solution\BattleshipClassLibrary\obj\Debug\net6.0\BattleshipClassLibrary.dll
+C:\Users\18032905\source\repos\Battleship_solution\BattleshipClassLibrary\obj\Debug\net6.0\refint\BattleshipClassLibrary.dll
+C:\Users\18032905\source\repos\Battleship_solution\BattleshipClassLibrary\obj\Debug\net6.0\BattleshipClassLibrary.pdb
+C:\Users\18032905\source\repos\Battleship_solution\BattleshipClassLibrary\obj\Debug\net6.0\ref\BattleshipClassLibrary.dll
